@@ -1,0 +1,42 @@
+/* *{
+    border:2px solid red;
+} */
+
+nav{
+    display:flex;
+    justify-content: space-between;   
+}
+
+nav a, nav h3{
+    height: fit-content;
+    margin: 0 15px; 
+    text-decoration: none;
+}
+
+.banner{
+    text-align: center;
+    width: 60%;
+    margin: 20vh auto 30px auto;
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 5px 5px 20px gray;
+}
+
+button{
+    background-color: purple;
+    color: white;
+    border-radius: 8px;
+    padding: 8px;
+}
+
+.handleAns {
+    display: none;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.handleAns h1, .handleAns hr {
+    color: lightgray;
+    margin: 0;
+}
