@@ -1,6 +1,10 @@
 # Code-Quiz
 
-As player HITS 'Start Quiz' button
-THEN player will answer 5 questions
-THEN screen will reload
-THEN player can check high scores
+## Description
+This project contains HTML, CSS, and JS. It's mostly JS with the touch of local storage and JSON.
+
+## Usage
+As the person plays the Quiz, it'll be composed of 5 questions. The user can track their highscores.
+
+## Feature
+JSON & Local Storage
